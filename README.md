@@ -1,2 +1,2 @@
 # LINGO
-lingo opdracht
+lingo project
